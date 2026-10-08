@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-09-26T09:30:18",
+  "generated_at": "2026-10-08T14:37:38",
   "vehicle_count": 180,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2019 Chevrolet Colorado 4wd Z71in 100 Mile House",
       "vin": "1GCGTDENXK1151040",
       "stock": "NUMBER",
+      "trim": "Z71in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/4a9aab6a78af.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2019-Chevrolet-Colorado-id14097336.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2019-Chevrolet-Colorado-id14097336.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,8 +19,10 @@
       "odometer_km": 135679,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Colorado 4wd Z71in 100 Mile House",
-      "condition": "used"
+      "model": "Colorado",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Colorado ",
@@ -34,7 +37,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Colorado ",
@@ -49,12 +54,15 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan Value Packagein 100 Mile House",
       "vin": "2C4RDGBG5KR719218",
       "stock": "NUMBER",
+      "trim": "Value Packagein 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/f426912c9089.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2019-Dodge-Grand_Caravan-id13863052.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2019-Dodge-Grand_Caravan-id13863052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -64,8 +72,10 @@
       "odometer_km": 98179,
       "year": 2019,
       "make": "Dodge",
-      "model": "Grand Caravan Value Packagein 100 Mile House",
-      "condition": "used"
+      "model": "Grand Caravan",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan ",
@@ -80,7 +90,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan ",
@@ -95,12 +107,15 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Yukon XL 4WD 4dr Denaliin 100 Mile House",
       "vin": "1GKS2HKJ1KR107018",
       "stock": "NUMBER",
+      "trim": "Denaliin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/662e2899536d.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2019-GMC-Yukon_XL-id14434524.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2019-GMC-Yukon_XL-id14434524.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -110,8 +125,10 @@
       "odometer_km": 164000,
       "year": 2019,
       "make": "GMC",
-      "model": "Yukon XL 4WD 4dr Denaliin 100 Mile House",
-      "condition": "used"
+      "model": "Yukon XL",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Yukon XL ",
@@ -126,7 +143,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Yukon XL ",
@@ -141,12 +160,15 @@
       "year": 2019,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2021 Buick Encore GX Essence AWDin 100 Mile House",
       "vin": "KL4MMGSL0MB150099",
       "stock": "NUMBER",
+      "trim": "Essence AWDin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/c6a250ae49af.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2021-Buick-Encore_GX-id13304532.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2021-Buick-Encore_GX-id13304532.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -156,8 +178,10 @@
       "odometer_km": 124725,
       "year": 2021,
       "make": "Buick",
-      "model": "Encore GX Essence AWDin 100 Mile House",
-      "condition": "used"
+      "model": "Encore GX",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2021 Buick Encore GX ",
@@ -172,7 +196,9 @@
       "year": 2021,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2021 Buick Encore GX ",
@@ -187,12 +213,15 @@
       "year": 2021,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Enclave Premiumin 100 Mile House",
       "vin": "5GAEVBKW4PJ136982",
       "stock": "NUMBER",
+      "trim": "Premiumin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/b43bcd35c2cf.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2023-Buick-Enclave-id13850746.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2023-Buick-Enclave-id13850746.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -202,8 +231,10 @@
       "odometer_km": 104802,
       "year": 2023,
       "make": "Buick",
-      "model": "Enclave Premiumin 100 Mile House",
-      "condition": "used"
+      "model": "Enclave",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Enclave ",
@@ -218,12 +249,15 @@
       "year": 2023,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Encore GX Essencein 100 Mile House",
       "vin": "KL4MMGSLXPB060544",
       "stock": "NUMBER",
+      "trim": "Essencein 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/6dcff95bc088.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2023-Buick-Encore_GX-id13629435.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2023-Buick-Encore_GX-id13629435.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -233,8 +267,10 @@
       "odometer_km": 66799,
       "year": 2023,
       "make": "Buick",
-      "model": "Encore GX Essencein 100 Mile House",
-      "condition": "used"
+      "model": "Encore GX",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Encore GX ",
@@ -249,7 +285,9 @@
       "year": 2023,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Enclave ",
@@ -264,7 +302,9 @@
       "year": 2023,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Encore GX ",
@@ -279,12 +319,15 @@
       "year": 2023,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage X-Linein 100 Mile House",
       "vin": "KNDPUCAF8P7129290",
       "stock": "NUMBER",
+      "trim": "X-Linein 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/de65402aac0a.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2023-Kia-Sportage-id14379537.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2023-Kia-Sportage-id14379537.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -294,8 +337,10 @@
       "odometer_km": 58361,
       "year": 2023,
       "make": "Kia",
-      "model": "Sportage X-Linein 100 Mile House",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -310,7 +355,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -325,12 +372,15 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envista Preferred Fwdin 100 Mile House",
       "vin": "KL47LAE2XRB222045",
       "stock": "NUMBER",
+      "trim": "Preferred Fwdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/9fbff83a6c48.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2024-Buick-Envista-id11118154.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2024-Buick-Envista-id11118154.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -339,8 +389,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Buick",
-      "model": "Envista Preferred Fwdin 100 Mile House",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envista ",
@@ -355,13 +407,16 @@
       "year": 2024,
       "make": "Buick",
       "model": "Envista",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 Buick Enclave Preferredin 100 Mile House",
       "vin": "5GAEVARS9SJ130066",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferredin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e06049fb22dc.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2025-Buick-Enclave-id11526846.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2025-Buick-Enclave-id11526846.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -370,8 +425,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Buick",
-      "model": "Enclave Preferredin 100 Mile House",
-      "condition": "new"
+      "model": "Enclave",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 Buick Enclave ",
@@ -387,12 +444,15 @@
       "year": 2025,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD LTin 100 Mile House",
       "vin": "2GC4KTEYXS1199562",
       "stock": "NUMBER",
+      "trim": "LTin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/014c7154eba1.html",
       "source_url": "https://www.gustafsonscentralgm.ca/used/2025-Chevrolet-Silverado_3500HD-id13426211.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/used/2025-Chevrolet-Silverado_3500HD-id13426211.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -402,8 +462,10 @@
       "odometer_km": 22286,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Silverado 3500HD LTin 100 Mile House",
-      "condition": "used"
+      "model": "Silverado 3500HD",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -418,7 +480,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -433,13 +497,16 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Acadia At4 Awdin 100 Mile House",
       "vin": "1GKENPRS6SJ199397",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "At4 Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/d61e5c7dbcdf.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2025-GMC-Acadia-id11920142.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2025-GMC-Acadia-id11920142.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -448,8 +515,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "GMC",
-      "model": "Acadia At4 Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Acadia ",
@@ -465,7 +534,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Enclavein 100 Mile House",
@@ -479,11 +550,14 @@
       "year": 2026,
       "make": "Buick",
       "model": "Enclavein 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GXin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "GXin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/a8c0dc2b1e37.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Buick-Encore_GX.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Buick-Encore_GX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -492,8 +566,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GXin 100 Mile House",
-      "condition": "used"
+      "model": "Encore",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -507,7 +583,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista ",
@@ -523,7 +601,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envista",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Enclavein 100 Mile House",
@@ -537,11 +617,14 @@
       "year": 2026,
       "make": "Buick",
       "model": "Enclavein 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GXin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "GXin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/a8c0dc2b1e37.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Buick-Encore_GX.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Buick-Encore_GX.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -550,8 +633,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GXin 100 Mile House",
-      "condition": "new"
+      "model": "Encore",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -565,7 +650,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista ",
@@ -581,26 +668,32 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envista",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Preferredin 100 Mile House",
       "vin": "LRBFZMR40TD115349",
       "stock": "NUMBER",
+      "trim": "Preferredin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/7030c13bd497.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Buick-Envision-id14392331.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Buick-Envision-id14392331.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:00:29",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Preferredin 100 Mile House",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Preferred Awdin 100 Mile House",
       "vin": "LRBFZMR46TD114920",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferred Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/42cf0fa97f7a.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Buick-Envision-id14413584.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Buick-Envision-id14413584.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -609,8 +702,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Preferred Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -624,13 +719,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista Preferredin 100 Mile House",
       "vin": "KL47LAE21TB228498",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferredin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ebed79deb216.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Buick-Envista-id14109841.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Buick-Envista-id14109841.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -639,8 +737,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envista Preferredin 100 Mile House",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista ",
@@ -656,7 +756,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envista",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazerin 100 Mile House",
@@ -670,11 +772,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Blazerin 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/961eef51e30e.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Blazer_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Blazer_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -683,8 +788,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer EVin 100 Mile House",
-      "condition": "used"
+      "model": "Blazer",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -700,7 +807,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvettein 100 Mile House",
@@ -714,11 +823,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Corvettein 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Convertible - Cabrioletin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/0ba46ebf4f28.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Convertible___Cabriolet.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -727,12 +839,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Convertible - Cabrioletin 100 Mile House",
-      "condition": "used"
+      "model": "Corvette",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Hybridin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Hybridin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/1431010c79bb.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Hybrid.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -741,8 +856,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Hybridin 100 Mile House",
-      "condition": "used"
+      "model": "Corvette",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinoxin 100 Mile House",
@@ -756,11 +873,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinoxin 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/87cafb9a9539.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -769,8 +889,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EVin 100 Mile House",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -786,11 +908,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 2500HDin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "HDin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/2aaf377629c7.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_2500HD.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_2500HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -799,8 +924,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 2500HDin 100 Mile House",
-      "condition": "used"
+      "model": "Silverado 2500",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD ",
@@ -816,11 +943,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/9d62f9632123.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -829,8 +959,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado EVin 100 Mile House",
-      "condition": "used"
+      "model": "Silverado",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Suburbanin 100 Mile House",
@@ -844,7 +976,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Suburbanin 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe ",
@@ -859,7 +993,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazerin 100 Mile House",
@@ -873,7 +1009,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trailblazerin 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Traversein 100 Mile House",
@@ -887,7 +1025,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Traversein 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ",
@@ -903,7 +1043,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazerin 100 Mile House",
@@ -917,11 +1059,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Blazerin 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/961eef51e30e.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Blazer_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Blazer_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -930,8 +1075,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer EVin 100 Mile House",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -947,7 +1094,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvettein 100 Mile House",
@@ -961,11 +1110,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Corvettein 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Convertible - Cabrioletin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/0ba46ebf4f28.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Convertible___Cabriolet.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -974,12 +1126,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Convertible - Cabrioletin 100 Mile House",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Hybridin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Hybridin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/1431010c79bb.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Hybrid.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Corvette_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,8 +1143,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Hybridin 100 Mile House",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinoxin 100 Mile House",
@@ -1003,11 +1160,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinoxin 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/87cafb9a9539.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1016,8 +1176,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EVin 100 Mile House",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -1033,11 +1195,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 2500HDin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "HDin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/2aaf377629c7.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_2500HD.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_2500HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1046,8 +1211,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 2500HDin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado 2500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD ",
@@ -1063,11 +1230,14 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/9d62f9632123.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-Chevrolet-Silverado_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1076,8 +1246,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado EVin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Suburbanin 100 Mile House",
@@ -1091,7 +1263,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Suburbanin 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe ",
@@ -1106,7 +1280,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazerin 100 Mile House",
@@ -1120,7 +1296,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trailblazerin 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Traversein 100 Mile House",
@@ -1134,7 +1312,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Traversein 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ",
@@ -1150,13 +1330,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado Trail Boss Crew 4wdin 100 Mile House",
       "vin": "1GCPTEEK2T1169058",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Trail Boss Crew 4wdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/9a2c58f44769.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Colorado-id13213234.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Colorado-id13213234.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1165,14 +1348,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado Trail Boss Crew 4wdin 100 Mile House",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado Lt Crew Cab 4wdin 100 Mile House",
       "vin": "1GCPTCEK2T1314037",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Lt 4wdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/eaa22ae4bae8.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Colorado-id14286964.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Colorado-id14286964.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1181,8 +1367,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado Lt Crew Cab 4wdin 100 Mile House",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -1198,13 +1386,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Lt Trailbossin 100 Mile House",
       "vin": "3GCUKFED5TG366031",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Lt Trailbossin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e58ed386505c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado-id14040935.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado-id14040935.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1213,14 +1404,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Lt Trailbossin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 High Countryin 100 Mile House",
       "vin": "3GCUKJE81TG452877",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "High Countryin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/fba450c827a3.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado-id14129154.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado-id14129154.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1229,14 +1423,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 High Countryin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 High Countryin 100 Mile House",
       "vin": "1GCUKJE83TZ454260",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "High Countryin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/b73b69c09ec2.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado-id14183876.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado-id14183876.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1245,8 +1442,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 High Countryin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado ",
@@ -1262,13 +1461,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Lt Trail Bossin 100 Mile House",
       "vin": "3GCUKFEL6TG295512",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Lt Trail Bossin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/285171764b15.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado_1500-id13519571.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado_1500-id13519571.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1479,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Lt Trail Bossin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 LTin 100 Mile House",
       "vin": "3GCUKDED4TG418494",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LTin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/9c00ce38350c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado_1500-id13985122.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Silverado_1500-id13985122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1293,8 +1498,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 LTin 100 Mile House",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -1310,7 +1517,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD ",
@@ -1326,12 +1535,15 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe Z71in 100 Mile House",
       "vin": "1GNS6PKD2TR472286",
       "stock": "NUMBER",
+      "trim": "Z71in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/99a4b05f30d2.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Tahoe-id14333990.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Tahoe-id14333990.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1340,13 +1552,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe Z71in 100 Mile House",
-      "condition": "new"
+      "model": "Tahoe",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe RSTin 100 Mile House",
       "vin": "1GNS6RK86TR475450",
       "stock": "NUMBER",
+      "trim": "RSTin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e8ba8d60e85a.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Tahoe-id14333991.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Tahoe-id14333991.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1355,8 +1570,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe RSTin 100 Mile House",
-      "condition": "new"
+      "model": "Tahoe",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe ",
@@ -1371,13 +1588,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax Fwd Activin 100 Mile House",
       "vin": "KL77LKE25TC254413",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Activin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/2e7b18033179.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Trax-id14286963.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Trax-id14286963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1386,14 +1606,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax Fwd Activin 100 Mile House",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax Fwd Activin 100 Mile House",
       "vin": "KL77LKE25TC253729",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Activin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/6dc526fb3f0e.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Trax-id14286966.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-Chevrolet-Trax-id14286966.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1402,8 +1625,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax Fwd Activin 100 Mile House",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ",
@@ -1419,7 +1644,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1435,7 +1662,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1451,11 +1680,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC HUMMER EV Pickupin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Pickupin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/eefa2cd6d156.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_Pickup.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_Pickup.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,12 +1696,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "HUMMER EV Pickupin 100 Mile House",
-      "condition": "used"
+      "model": "Hummer EV",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC HUMMER EV SUVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "SUVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/0f4c2e59453c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_SUV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_SUV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1478,8 +1713,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "HUMMER EV SUVin 100 Mile House",
-      "condition": "used"
+      "model": "Hummer EV",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -1495,11 +1732,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 2500HDin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "HDin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/570427b67a99.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_2500HD.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_2500HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1508,8 +1748,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 2500HDin 100 Mile House",
-      "condition": "used"
+      "model": "Sierra 2500",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1525,11 +1767,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/963c7cbcb7f9.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1538,8 +1783,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra EVin 100 Mile House",
-      "condition": "used"
+      "model": "Sierra",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -1555,7 +1802,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon ",
@@ -1571,11 +1820,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon XLin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "XLin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/2b05e12a5951.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Yukon_XL.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Yukon_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1584,8 +1836,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon XLin 100 Mile House",
-      "condition": "used"
+      "model": "Yukon",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1601,7 +1855,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1617,11 +1873,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC HUMMER EV Pickupin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Pickupin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/eefa2cd6d156.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_Pickup.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_Pickup.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1630,12 +1889,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "HUMMER EV Pickupin 100 Mile House",
-      "condition": "new"
+      "model": "Hummer EV",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC HUMMER EV SUVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "SUVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/0f4c2e59453c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_SUV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-HUMMER_EV_SUV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1644,8 +1906,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "HUMMER EV SUVin 100 Mile House",
-      "condition": "new"
+      "model": "Hummer EV",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -1661,11 +1925,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 2500HDin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "HDin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/570427b67a99.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_2500HD.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_2500HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1674,8 +1941,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 2500HDin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 2500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1691,11 +1960,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/963c7cbcb7f9.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Sierra_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1704,8 +1976,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra EVin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -1721,7 +1995,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon ",
@@ -1737,11 +2013,14 @@
       "year": 2026,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon XLin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "XLin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/2b05e12a5951.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Yukon_XL.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2026-GMC-Yukon_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1750,14 +2029,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon XLin 100 Mile House",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia Denali Ultimatein 100 Mile House",
       "vin": "1GKENTKS8TJ342516",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denali Ultimatein 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/5202149ff9d5.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Acadia-id13752424.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Acadia-id13752424.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1766,8 +2048,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia Denali Ultimatein 100 Mile House",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1783,13 +2067,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Denali Crew 4wdin 100 Mile House",
       "vin": "1GTP2FEK9T1279081",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denali Crew 4wdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/d5d205fbfed9.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Canyon-id14025264.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Canyon-id14025264.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1798,14 +2085,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Denali Crew 4wdin 100 Mile House",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Elevation Crew Cabin 100 Mile House",
       "vin": "1GTP2BEK4T1298548",
       "stock": "NUMBER",
       "color": "RAPIDS METALLICS",
+      "trim": "Elevation Crew Cabin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/a0ff0b173d3f.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Canyon-id14199976.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Canyon-id14199976.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1814,14 +2104,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Elevation Crew Cabin 100 Mile House",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon At4 Crew Cab 4wdin 100 Mile House",
       "vin": "1GTP2DEK2T1313883",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "At4 4wdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/aa37fc4c2218.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Canyon-id14311053.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Canyon-id14311053.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1830,8 +2123,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon At4 Crew Cab 4wdin 100 Mile House",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1847,13 +2142,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevation Crewin 100 Mile House",
       "vin": "3GTUUCED5TG387695",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevation Crewin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/86bb71d6c103.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra-id13870998.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra-id13870998.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1862,14 +2160,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevation Crewin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevation Crewin 100 Mile House",
       "vin": "3GTUUCED5TG387325",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevation Crewin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/d3c6c15ccfcf.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra-id13870999.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra-id13870999.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1878,8 +2179,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevation Crewin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1895,13 +2198,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Denaliin 100 Mile House",
       "vin": "3GTUUGELXTG168276",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Denaliin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/7dbd75aa1c21.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id12968160.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id12968160.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1910,14 +2216,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Denaliin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Denaliin 100 Mile House",
       "vin": "3GTUUGE84TG168270",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Denaliin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/88f142ee1dea.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id12968161.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id12968161.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1926,14 +2235,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Denaliin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Denaliin 100 Mile House",
       "vin": "3GTUUGEL4TG233946",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Denaliin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/cd7b9da04d18.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id13258055.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id13258055.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1942,14 +2254,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Denaliin 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Denali Ultimatein 100 Mile House",
       "vin": "1GTUUHEL4TZ392410",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denali Ultimatein 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/fda8e15f9702.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id13877080.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Sierra_1500-id13877080.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1958,8 +2273,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Denali Ultimatein 100 Mile House",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -1975,7 +2292,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500 ",
@@ -1991,13 +2310,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain Awd At4in 100 Mile House",
       "vin": "3GKALYEG3TL483737",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "At4in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/6e830c0eb348.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Terrain-id13718136.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2026-GMC-Terrain-id13718136.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2006,8 +2328,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Terrain Awd At4in 100 Mile House",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -2023,7 +2347,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon ",
@@ -2039,7 +2365,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Buick Enclavein 100 Mile House",
@@ -2053,7 +2381,9 @@
       "year": 2027,
       "make": "Buick",
       "model": "Enclavein 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Buick Enclavein 100 Mile House",
@@ -2067,11 +2397,14 @@
       "year": 2027,
       "make": "Buick",
       "model": "Enclavein 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Blazer EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/8d76b949e1ec.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Blazer_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Blazer_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2080,8 +2413,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Blazer EVin 100 Mile House",
-      "condition": "used"
+      "model": "Blazer",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2097,7 +2432,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvettein 100 Mile House",
@@ -2111,11 +2448,14 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Corvettein 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette Convertible - Cabrioletin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/2a443709be0c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Convertible___Cabriolet.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2124,12 +2464,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette Convertible - Cabrioletin 100 Mile House",
-      "condition": "used"
+      "model": "Corvette",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette Hybridin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Hybridin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/22629fdaaaee.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Hybrid.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2138,8 +2481,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette Hybridin 100 Mile House",
-      "condition": "used"
+      "model": "Corvette",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -2155,11 +2500,14 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/257b0281e661.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2168,12 +2516,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EVin 100 Mile House",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Silverado 1500in 100 Mile House",
       "stock": "NUMBER",
+      "trim": "1500in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/928ddeab6599.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Silverado_1500.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2182,8 +2533,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Silverado 1500in 100 Mile House",
-      "condition": "used"
+      "model": "Silverado",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Suburbanin 100 Mile House",
@@ -2197,7 +2550,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Suburbanin 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Tahoein 100 Mile House",
@@ -2211,7 +2566,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Tahoein 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -2227,11 +2584,14 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Blazer EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/8d76b949e1ec.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Blazer_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Blazer_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2240,8 +2600,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Blazer EVin 100 Mile House",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2257,7 +2619,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvettein 100 Mile House",
@@ -2271,11 +2635,14 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Corvettein 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette Convertible - Cabrioletin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Convertible",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/2a443709be0c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Convertible___Cabriolet.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Convertible___Cabriolet.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2284,12 +2651,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette Convertible - Cabrioletin 100 Mile House",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette Hybridin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "Hybridin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/22629fdaaaee.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Hybrid.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Corvette_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2298,8 +2668,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette Hybridin 100 Mile House",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -2315,11 +2687,14 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EVin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "EVin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/257b0281e661.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Equinox_EV.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Equinox_EV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2328,12 +2703,15 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EVin 100 Mile House",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Silverado 1500in 100 Mile House",
       "stock": "NUMBER",
+      "trim": "1500in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/928ddeab6599.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Silverado_1500.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2342,8 +2720,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Silverado 1500in 100 Mile House",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Suburbanin 100 Mile House",
@@ -2357,7 +2737,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Suburbanin 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Tahoein 100 Mile House",
@@ -2371,7 +2753,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Tahoein 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -2387,13 +2771,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LTin 100 Mile House",
       "vin": "1G1FY6EV7VF105609",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LTin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/791cb28ad5d1.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Bolt-id13474259.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Bolt-id13474259.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2402,8 +2789,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LTin 100 Mile House",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -2419,13 +2808,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox Activ 1.5t Awdin 100 Mile House",
       "vin": "3GNAXSEG5VL162466",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Activ 1.5t Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/dd5cafd0e556.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Equinox-id14255662.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Equinox-id14255662.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2434,13 +2826,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox Activ 1.5t Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox Awd Activin 100 Mile House",
       "vin": "3GNAXSEG6VL195752",
       "stock": "NUMBER",
+      "trim": "Activin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e9735262b807.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Equinox-id14354229.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Equinox-id14354229.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2449,14 +2844,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox Awd Activin 100 Mile House",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox Lt 1.5t Awdin 100 Mile House",
       "vin": "3GNAXPEG4VL192409",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Lt 1.5t Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/0924ecd524a9.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Equinox-id14371145.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Equinox-id14371145.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2465,8 +2863,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox Lt 1.5t Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -2482,13 +2882,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse Z71 Awdin 100 Mile House",
       "vin": "1GNEVJKS6VJ152563",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Z71 Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/202bf0ae871e.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Traverse-id14413583.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-Chevrolet-Traverse-id14413583.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2497,8 +2900,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Traverse Z71 Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -2514,7 +2919,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadiain 100 Mile House",
@@ -2528,11 +2935,14 @@
       "year": 2027,
       "make": "GMC",
       "model": "Acadiain 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Sierra 1500in 100 Mile House",
       "stock": "NUMBER",
+      "trim": "1500in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/ddb46ce83f66.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Sierra_1500.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Sierra_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2541,8 +2951,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Sierra 1500in 100 Mile House",
-      "condition": "used"
+      "model": "Sierra",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -2558,7 +2970,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Yukonin 100 Mile House",
@@ -2572,11 +2986,14 @@
       "year": 2027,
       "make": "GMC",
       "model": "Yukonin 100 Mile House",
-      "condition": "used"
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Yukon XLin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "XLin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/3a6542649005.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Yukon_XL.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Yukon_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2585,8 +3002,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Yukon XLin 100 Mile House",
-      "condition": "used"
+      "model": "Yukon",
+      "condition": "used",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadiain 100 Mile House",
@@ -2600,11 +3019,14 @@
       "year": 2027,
       "make": "GMC",
       "model": "Acadiain 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Sierra 1500in 100 Mile House",
       "stock": "NUMBER",
+      "trim": "1500in 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ddb46ce83f66.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Sierra_1500.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Sierra_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2613,8 +3035,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Sierra 1500in 100 Mile House",
-      "condition": "new"
+      "model": "Sierra",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -2630,7 +3054,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Yukonin 100 Mile House",
@@ -2644,11 +3070,14 @@
       "year": 2027,
       "make": "GMC",
       "model": "Yukonin 100 Mile House",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Yukon XLin 100 Mile House",
       "stock": "NUMBER",
+      "trim": "XLin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/3a6542649005.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Yukon_XL.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/2027-GMC-Yukon_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2657,14 +3086,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Yukon XLin 100 Mile House",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain Awd Elevationin 100 Mile House",
       "vin": "3GKALUEG5VL151844",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevationin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/90562be7cc3c.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-GMC-Terrain-id14199975.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-GMC-Terrain-id14199975.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2673,14 +3105,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain Awd Elevationin 100 Mile House",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain At4 Awdin 100 Mile House",
       "vin": "3GKALYEG7VL153893",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "At4 Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/c91f23f8175b.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-GMC-Terrain-id14231353.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-GMC-Terrain-id14231353.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2689,14 +3124,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain At4 Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain Elevation Awdin 100 Mile House",
       "vin": "3GKALUEG1VL157320",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Elevation Awdin 100 Mile House",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e08d53514b21.html",
       "source_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-GMC-Terrain-id14231354.html",
       "dealer_url": "https://www.gustafsonscentralgm.ca/new/inventory/2027-GMC-Terrain-id14231354.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2705,8 +3143,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain Elevation Awdin 100 Mile House",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -2722,7 +3162,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "100 Mile House",
+      "province": "BC"
     }
   ]
 }
