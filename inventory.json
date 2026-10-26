@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-10-26T03:01:41",
+  "generated_at": "2026-10-26T03:12:32",
   "vehicle_count": 121,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -754,7 +754,7 @@
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD ",
-      "vin": "1GC4KUEY5TF288049",
+      "vin": "2GC4KUEY7T1234064",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/366a85107cfe.html",
       "year": 2026,
       "make": "Chevrolet",
