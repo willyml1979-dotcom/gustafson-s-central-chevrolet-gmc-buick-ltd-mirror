@@ -1,10 +1,42 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-11-16T19:18:56",
+  "generated_at": "2026-11-17T16:38:55",
   "vehicle_count": 122,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Dodge Grand Caravan 2019 for salein 100 Mile House",
+      "vin": "2C4RDGBG5KR719218",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/9a6feaa33e2c.html",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Encore GX 2021 for salein 100 Mile House",
+      "vin": "KL4MMGSL0MB150099",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/79ca0ee5c742.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Enclave 2023 for salein 100 Mile House",
+      "vin": "5GAEVBKW4PJ136982",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/99f563d3141e.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Encore GX 2023 for salein 100 Mile House",
+      "vin": "KL4MMGSLXPB060544",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/0f9c99e5d793.html",
+      "condition": "used",
+      "price": 25995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Chevrolet Tahoe 2026 for salein 100 Mile House",
       "vin": "1GNS6PKD2TR472286",
@@ -95,17 +127,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG5KR719218",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/9a6feaa33e2c.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 GMC Yukon XL 4WD 4dr Denaliin 100 Mile House",
       "vin": "1GKS2HKJ1KR107018",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/662e2899536d.html",
@@ -139,17 +160,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Buick Encore GX ",
-      "vin": "KL4MMGSL0MB150099",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/79ca0ee5c742.html",
-      "year": 2021,
-      "make": "Buick",
-      "model": "Encore GX",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Buick Enclave Premiumin 100 Mile House",
       "vin": "5GAEVBKW4PJ136982",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/b43bcd35c2cf.html",
@@ -161,31 +171,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Buick Enclave ",
-      "vin": "5GAEVBKW4PJ136982",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/99f563d3141e.html",
-      "year": 2023,
-      "make": "Buick",
-      "model": "Enclave",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Buick Encore GX Essencein 100 Mile House",
       "vin": "KL4MMGSLXPB060544",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/6dcff95bc088.html",
-      "year": 2023,
-      "make": "Buick",
-      "model": "Encore GX",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Buick Encore GX ",
-      "vin": "KL4MMGSLXPB060544",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/0f9c99e5d793.html",
       "year": 2023,
       "make": "Buick",
       "model": "Encore GX",
@@ -288,7 +276,7 @@
       "make": "Buick",
       "model": "Enclavein 100 Mile House",
       "condition": "used",
-      "price": 63199.0,
+      "price": 61199.0,
       "price_currency": "CAD"
     },
     {
