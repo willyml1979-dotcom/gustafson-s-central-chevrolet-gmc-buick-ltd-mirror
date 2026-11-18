@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-11-17T16:38:55",
+  "generated_at": "2026-11-17T17:49:19",
   "vehicle_count": 122,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -83,6 +83,54 @@
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/60c3a10ada8a.html",
       "condition": "new",
       "price": 78995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 3500 2026 for salein 100 Mile House",
+      "vin": "1GT4UTEY9TF446123",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/2203ad9c1141.html",
+      "condition": "new",
+      "price": 100495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2026 for salein 100 Mile House",
+      "vin": "3GKALYEG3TL483737",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/d280ed97f896.html",
+      "condition": "new",
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Yukon 2026 for salein 100 Mile House",
+      "vin": "1GKS2CK88TR304950",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/db7b31bff675.html",
+      "condition": "new",
+      "price": 112995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Bolt 2027 for salein 100 Mile House",
+      "vin": "1G1FY6EV7VF105609",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/c9342dc3fa74.html",
+      "condition": "new",
+      "price": 43109.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2027 for salein 100 Mile House",
+      "vin": "3GNAXPEG0VL169368",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/8dc5e2396eac.html",
+      "condition": "new",
+      "price": 45299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Traverse 2027 for salein 100 Mile House",
+      "vin": "1GNEVJKS6VJ152563",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/481c21ef3db0.html",
+      "condition": "new",
+      "price": 63789.0,
       "price_currency": "CAD"
     },
     {
@@ -910,17 +958,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 GMC Sierra 3500 ",
-      "vin": "1GT4UWEY5TF258233",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/2203ad9c1141.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 3500",
-      "condition": "new",
-      "price": 102995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 GMC Terrain Awd At4in 100 Mile House",
       "vin": "3GKALYEG3TL483737",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/6e830c0eb348.html",
@@ -929,28 +966,6 @@
       "model": "Terrain",
       "condition": "new",
       "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Terrain ",
-      "vin": "3GKALYEG3TL483737",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/d280ed97f896.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Yukon ",
-      "vin": "1GKS2CK88TR304950",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/db7b31bff675.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "new",
-      "price": 112995.0,
       "price_currency": "CAD"
     },
     {
@@ -1088,17 +1103,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Bolt ",
-      "vin": "1G1FY6EV7VF105609",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/c9342dc3fa74.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 43109.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2027 Chevrolet Equinox Activ 1.5t Awdin 100 Mile House",
       "vin": "3GNAXSEG5VL162466",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/dd5cafd0e556.html",
@@ -1143,31 +1147,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Equinox ",
-      "vin": "3GNAXPEG0VL169368",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/8dc5e2396eac.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "new",
-      "price": 45299.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2027 Chevrolet Traverse Z71 Awdin 100 Mile House",
       "vin": "1GNEVJKS6VJ152563",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/202bf0ae871e.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "new",
-      "price": 63789.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Traverse ",
-      "vin": "1GNEVJKS6VJ152563",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/481c21ef3db0.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
