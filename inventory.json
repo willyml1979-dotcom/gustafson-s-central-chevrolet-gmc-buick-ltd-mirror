@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-11-18T12:44:44",
+  "generated_at": "2026-11-18T13:09:15",
   "vehicle_count": 120,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -91,6 +91,38 @@
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/78741a813e91.html",
       "condition": "new",
       "price": 30995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Colorado 2026 for salein 100 Mile House",
+      "vin": "1GCPTCEK2T1314037",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/262b7d493ba4.html",
+      "condition": "new",
+      "price": 56214.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 2026 for salein 100 Mile House",
+      "vin": "3GCUKFED5TG366031",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/a3fcf415e9a5.html",
+      "condition": "new",
+      "price": 67995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2026 for salein 100 Mile House",
+      "vin": "3GCUKDED4TG418494",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/f535eddba433.html",
+      "condition": "new",
+      "price": 56995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 3500HD 2026 for salein 100 Mile House",
+      "vin": "1GC4KUEY5TF288049",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/366a85107cfe.html",
+      "condition": "new",
+      "price": 97495.0,
       "price_currency": "CAD"
     },
     {
@@ -555,17 +587,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Colorado ",
-      "vin": "1GCPTCEK2T1314037",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/262b7d493ba4.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 56214.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Chevrolet Silverado 1500 Lt Trailbossin 100 Mile House",
       "vin": "3GCUKFED5TG366031",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e58ed386505c.html",
@@ -573,7 +594,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 69995.0,
+      "price": 67995.0,
       "price_currency": "CAD"
     },
     {
@@ -584,7 +605,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 79995.0,
+      "price": 77995.0,
       "price_currency": "CAD"
     },
     {
@@ -595,18 +616,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 79995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado ",
-      "vin": "3GCUKFED5TG366031",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/a3fcf415e9a5.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado",
-      "condition": "new",
-      "price": 69995.0,
+      "price": 77995.0,
       "price_currency": "CAD"
     },
     {
@@ -617,29 +627,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 66995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 ",
-      "vin": "3GCUKDED4TG418494",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/f535eddba433.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 66995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 3500HD ",
-      "vin": "2GC4KUEY7T1234064",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/366a85107cfe.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 3500HD",
-      "condition": "new",
-      "price": 99995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
