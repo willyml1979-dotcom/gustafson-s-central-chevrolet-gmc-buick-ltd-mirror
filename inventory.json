@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-11-18T03:59:59",
+  "generated_at": "2026-11-18T04:29:56",
   "vehicle_count": 122,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -35,6 +35,46 @@
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/0f9c99e5d793.html",
       "condition": "used",
       "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Envista 2024 for salein 100 Mile House",
+      "vin": "KL47LAE2XRB222045",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e6df31b3f7e1.html",
+      "condition": "new",
+      "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Enclave 2025 for salein 100 Mile House",
+      "vin": "5GAEVARS9SJ130066",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/5328d6ae418a.html",
+      "condition": "new",
+      "price": 63995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Acadia 2025 for salein 100 Mile House",
+      "vin": "1GKENPRS6SJ199397",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ed86cdf19fba.html",
+      "condition": "new",
+      "price": 61995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Envision 2026 for salein 100 Mile House",
+      "vin": "LRBFZMR46TD114920",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/be6a59b39903.html",
+      "condition": "new",
+      "price": 43495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Envista 2026 for salein 100 Mile House",
+      "vin": "KL47LAE21TB228498",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/78741a813e91.html",
+      "condition": "new",
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -131,6 +171,14 @@
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/481c21ef3db0.html",
       "condition": "new",
       "price": 63789.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2027 for salein 100 Mile House",
+      "vin": "3GKALUEG3VL182140",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/c77648a05adf.html",
+      "condition": "new",
+      "price": 49389.0,
       "price_currency": "CAD"
     },
     {
@@ -263,17 +311,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Buick Envista ",
-      "vin": "KL47LAE2XRB222045",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e6df31b3f7e1.html",
-      "year": 2024,
-      "make": "Buick",
-      "model": "Envista",
-      "condition": "new",
-      "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2025 Buick Enclave Preferredin 100 Mile House",
       "vin": "5GAEVARS9SJ130066",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/e06049fb22dc.html",
@@ -285,31 +322,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Buick Enclave ",
-      "vin": "5GAEVARS9SJ130066",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/5328d6ae418a.html",
-      "year": 2025,
-      "make": "Buick",
-      "model": "Enclave",
-      "condition": "new",
-      "price": 63995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2025 GMC Acadia At4 Awdin 100 Mile House",
       "vin": "1GKENPRS6SJ199397",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/d61e5c7dbcdf.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Acadia",
-      "condition": "new",
-      "price": 61995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC Acadia ",
-      "vin": "1GKENPRS6SJ199397",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ed86cdf19fba.html",
       "year": 2025,
       "make": "GMC",
       "model": "Acadia",
@@ -367,35 +382,13 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 43995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision ",
-      "vin": "LRBFZMR46TD114920",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/be6a59b39903.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 43995.0,
+      "price": 43495.0,
       "price_currency": "CAD"
     },
     {
       "name": "New 2026 Buick Envista Preferredin 100 Mile House",
       "vin": "KL47LAE21TB228498",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ebed79deb216.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envista",
-      "condition": "new",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envista ",
-      "vin": "KL47LAE21TB228498",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/78741a813e91.html",
       "year": 2026,
       "make": "Buick",
       "model": "Envista",
@@ -945,7 +938,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 93995.0,
+      "price": 91995.0,
       "price_currency": "CAD"
     },
     {
@@ -1245,17 +1238,6 @@
       "name": "New 2027 GMC Terrain Elevation Awdin 100 Mile House",
       "vin": "3GKALUEG3VL182140",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/f355b36a45a5.html",
-      "year": 2027,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "new",
-      "price": 49389.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 GMC Terrain ",
-      "vin": "3GKALUEG3VL182140",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/c77648a05adf.html",
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
