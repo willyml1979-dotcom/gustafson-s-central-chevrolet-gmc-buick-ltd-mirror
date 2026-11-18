@@ -7,7 +7,7 @@ Gustafson's Central Chevrolet GMC Buick Ltd. is a  dealership in 100 Mile House.
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ (about 122 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/new/ (about 120 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/llms.txt

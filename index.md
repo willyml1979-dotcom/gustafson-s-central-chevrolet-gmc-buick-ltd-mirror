@@ -1,6 +1,6 @@
 # Gustafson's Central Chevrolet GMC Buick Ltd.
 
- dealership in 100 Mile House. AI-readable inventory mirror, about 122 vehicles.
+ dealership in 100 Mile House. AI-readable inventory mirror, about 120 vehicles.
 
 - Official website: https://www.gustafsonscentralgm.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/
