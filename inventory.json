@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Central Chevrolet Gmc Buick Ltd",
-  "generated_at": "2026-11-17T17:49:19",
+  "generated_at": "2026-11-18T03:59:59",
   "vehicle_count": 122,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -338,14 +338,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Buick Envision ",
-      "vin": "LRBFZMR40TD115349",
+      "name": "2026 Buick Envisionin 100 Mile House",
+      "vin": "LRBFZMR46TD114920",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/3dd6124472e4.html",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision",
+      "model": "Envisionin 100 Mile House",
       "condition": "used",
-      "price": 44995.0,
+      "price": 45199.0,
       "price_currency": "CAD"
     },
     {
@@ -420,7 +420,7 @@
       "make": "Chevrolet",
       "model": "Blazer",
       "condition": "used",
-      "price": 58399.0,
+      "price": 53899.0,
       "price_currency": "CAD"
     },
     {
@@ -537,14 +537,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Tahoe ",
+      "name": "2026 Chevrolet Tahoein 100 Mile House",
       "vin": "1GNS6PKD2TR472286",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/65aa93e64098.html",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Tahoe",
+      "model": "Tahoein 100 Mile House",
       "condition": "used",
-      "price": 96995.0,
+      "price": 81699.0,
       "price_currency": "CAD"
     },
     {
@@ -568,14 +568,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trax ",
+      "name": "2026 Chevrolet Traxin 100 Mile House",
       "vin": "KL77LKE25TC254413",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/28ea07edce9f.html",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax",
+      "model": "Traxin 100 Mile House",
       "condition": "used",
-      "price": 33939.0,
+      "price": 29449.0,
       "price_currency": "CAD"
     },
     {
@@ -711,14 +711,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 GMC Acadia ",
+      "name": "2026 GMC Acadiain 100 Mile House",
       "vin": "1GKENTKS8TJ342516",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-central-chevrolet-gmc-buick-ltd-mirror/used/a143d6d9c98f.html",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia",
+      "model": "Acadiain 100 Mile House",
       "condition": "used",
-      "price": 78294.0,
+      "price": 57199.0,
       "price_currency": "CAD"
     },
     {
